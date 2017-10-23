@@ -1,0 +1,7 @@
+com\veera\springData\repositories\BankDetailsRepository.class
+com\veera\springData\controller\BankDetailsController.class
+com\veera\springData\ApplicationConfiguration.class
+com\veera\springData\model\BankDetails.class
+com\veera\springData\repositories\PersonRepository.class
+com\veera\springData\model\Person.class
+com\veera\springData\controller\PersonController.class
